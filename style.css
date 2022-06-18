@@ -1,0 +1,62 @@
+* {
+    font-family: Roboto, sans-serif;
+}
+html,
+body {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+div {
+    width: 100%;
+    height: 25%;
+    float: left;
+}
+
+.divider1 {
+    background-color: #1F2937;
+}
+
+.divider2 {
+    background-color: white;
+}
+
+.divider3 {
+    background-color: #E5E7EB;
+}
+
+.divider4 {
+    background-color: white;
+}
+
+.leftside {
+    color: white;
+    margin: 10px;
+    margin-left: 100px;
+    margin-right: 0px;
+}
+
+.headerbox{
+    display: flex;
+}
+
+.rightside {
+    display: flex;
+    width: 300px;
+    margin-right: 100px;
+}
+
+p {
+    width: 80px;
+    color: white;
+    margin-top: 10px;
+}
+
+.awesome {
+    color: white;
+    font-size: 48px;
+    margin-left: 100px;
+    width: 350px;
+    height: 50%;
+}
